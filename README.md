@@ -1,2 +1,3 @@
 # hello-world
-Hello World 
+
+Just a beginner in c++, java, html & css.
